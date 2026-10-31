@@ -4,7 +4,7 @@
 
 <p align="center">
 
-  **DEVELOPED BY [zams.dev]([https://github.com](https://github.com/zamdevv-jpg))**
+  **DEVELOPED BY [zams.dev](https://github.com/zamdevv-jpg))**
 
   `JavaScript` `Tampermonkey` `Userscript`
 
